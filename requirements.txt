@@ -66,3 +66,4 @@ urllib3==2.6.2
 uvicorn==0.40.0
 watchdog==6.0.0
 xlsxwriter==3.2.9
+plotly==5.29.0
